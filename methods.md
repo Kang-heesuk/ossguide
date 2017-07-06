@@ -12,19 +12,19 @@
 
 오픈소스 저작권의 개념
 
-## Are public GitHub projects open source? {#copyrightwarning}
+## Are public GitHub projects open source? {#warning}
 
 오픈소스 저작권의 개념, 오픈소스 사용시 유의할 점
 
-## Just give me the TL;DR on what I need to protect my project
+## Just give me the TL;DR on what I need to protect my project {#license}
 
 라이선스란, Choosealincese.com
 
-## Which open source license is appropriate for my project?
+## Which open source license is appropriate for my project? {#corelicense}
 
 라이선스란, 주요 라이선스 \(간단 개념만, 자세한 내용은 advanced에서\)
 
-## Does my project need an additional contributor agreement?
+## Does my project need an additional contributor agreement? {#cla}
 
 CLA란  
 오픈소스 라이선스 관련 분쟁 이슈 사례
